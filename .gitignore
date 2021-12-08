@@ -1,5 +1,4 @@
 .idea
 Dockerfile
 get_html_test.py
-population.toml
 countries_population.ods
